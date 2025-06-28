@@ -1,1 +1,1 @@
-# AI-Analyst-Chat
+# AI Analyst Chat Assistant
